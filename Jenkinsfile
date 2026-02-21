@@ -1,4 +1,4 @@
-peline {
+pipeline {
 environment { // Declaration of environment variables
 DOCKER_ID = "rachidtakni" // replace this with your docker-id
 DOCKER_IMAGE = "datascientestapi"
